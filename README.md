@@ -39,6 +39,13 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=wasm_with_julia&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/wasm_with_julia)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=MyGenieExample.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/MyGenieExample.jl)
 
+# Deep Learning
+
+- This project was done when I was working at [Idein Inc.](https://idein.jp/en/)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=chainer-pose-proposal-net&theme=monokai)](https://github.com/Idein/chainer-pose-proposal-net)
+
+
 </details>
 
 <details>
@@ -52,12 +59,10 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=Gomah.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=PPN.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/github-readme-stats)
 
-# Deep Learning Task
+# Deep Learning
 
-These jobs were done at [Idein Inc.](https://idein.jp/en/).
+- This project was done when I was working at [Idein Inc.](https://idein.jp/en/)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=chainer-pose-proposal-net&theme=monokai)](https://github.com/Idein/chainer-pose-proposal-net)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=chainer-hand-pose&theme=monokai)](https://github.com/Idein/chainer-hand-pose)
 
 </details>
-
