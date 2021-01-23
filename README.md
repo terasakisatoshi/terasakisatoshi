@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![terasakisatoshi's github stats](https://github-readme-stats.vercel.app/api?username=terasakisatoshi&show_icons=true&theme=monokai&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terasakisatoshi&theme=monokai)](https://github.com/terasakisatoshi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terasakisatoshi&theme=monokai&hide=css,html)](https://github.com/terasakisatoshi/github-readme-stats)
