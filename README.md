@@ -23,9 +23,12 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=terasakisatoshi.github.io&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=MathSeminar.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/github-readme-stats)
 
-# JuliaLang
+# Projects
 
-### 2020
+<details>
+<summary><h2> 2020 (click here)</h2></summary>
+
+# JuliaLang
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=OpenCVBuilder.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/OpenCVBuilder.jl)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=ImageProcessing.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/ImageProcessing.jl)
@@ -35,6 +38,8 @@ Here are some ideas to get you started:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=wasm_with_julia&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/wasm_with_julia)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=MyGenieExample.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/MyGenieExample.jl)
+
+</details>
 
 <details>
 <summary><h2>~ 2019 (click here)</h2></summary>
