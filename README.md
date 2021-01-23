@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 ![terasakisatoshi's github stats](https://github-readme-stats.vercel.app/api?username=terasakisatoshi&show_icons=true&theme=monokai&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terasakisatoshi&theme=monokai&hide=css,html)](https://github.com/terasakisatoshi/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=OpenCVBuilder.jl&show_owner=true&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
