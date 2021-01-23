@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![terasakisatoshi's github stats](https://github-readme-stats.vercel.app/api?username=terasakisatoshi&show_icons=true&theme=monokai&show_icons=true)
+![terasakisatoshi's github stats](https://github-readme-stats.vercel.app/api?username=terasakisatoshi&show_icons=true&theme=monokai&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terasakisatoshi&theme=monokai&hide=css,html)](https://github.com/terasakisatoshi/github-readme-stats)
 
-# Web page
+### Web page
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=terasakisatoshi.github.io&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=MathSeminar.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/github-readme-stats)
 
-# Projects
+### Projects
 
 <details>
-<summary><h2> 2020 (click here)</h2></summary>
+<summary><h3> 2020 (click here)</h3></summary>
 
 # JuliaLang
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-<summary><h2>~ 2019 (click here)</h2></summary>
+<summary><h3>~ 2019 (click here)</h3></summary>
 
 # JuliaLang
 
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=Gomah.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=PPN.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/github-readme-stats)
 
-# DeepLearning Projects
+# Deep Learning Task
 
 These jobs were done at [Idein Inc.](https://idein.jp/en/).
 
@@ -60,5 +60,4 @@ These jobs were done at [Idein Inc.](https://idein.jp/en/).
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=chainer-hand-pose&theme=monokai)](https://github.com/Idein/chainer-hand-pose)
 
 </details>
-
 
