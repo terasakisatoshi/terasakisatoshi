@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 -->
 
 ![terasakisatoshi's github stats](https://github-readme-stats.vercel.app/api?username=terasakisatoshi&show_icons=true&theme=monokai&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terasakisatoshi&theme=monokai&hide=css,html)](https://github.com/terasakisatoshi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terasakisatoshi&theme=monokai&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Web page
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=terasakisatoshi.github.io&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=MathSeminar.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=terasakisatoshi.github.io&&theme=monokai)](https://github.com/terasakisatoshi/terasakisatoshi.github.io)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=MathSeminar.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/MathSeminar.jl)
 
 ### Projects
 
