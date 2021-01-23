@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 ### Web page
 
 - personal web page
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=terasakisatoshi.github.io&&theme=monokai)](https://terasakisatoshi.github.io/)
 - topics in mathematics with JuliaLang
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=MathSeminar.jl&show_owner=true&theme=monokai)](https://terasakisatoshi.github.io/MathSeminar.jl/)
 
 ### Projects
