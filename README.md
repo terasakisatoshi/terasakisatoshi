@@ -15,9 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=terasakisatoshi&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terasakisatoshi" />
-</a>
+![terasakisatoshi's github stats](https://github-readme-stats.vercel.app/api?username=terasakisatoshi&show_icons=true&theme=monokai&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terasakisatoshi)](https://github.com/terasakisatoshi/github-readme-stats&theme=monokai)
