@@ -47,8 +47,7 @@ Here are some ideas to get you started:
 
 - This project was done when I was working at [Idein Inc.](https://idein.jp/en/)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=chainer-pose-proposal-net&theme=monokai)](https://github.com/Idein/chainer-pose-proposal-net)
-
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=chainer-hand-pose&theme=monokai)](https://github.com/Idein/chainer-hand-pose)
 
 </details>
 
@@ -67,6 +66,6 @@ Here are some ideas to get you started:
 
 - This project was done when I was working at [Idein Inc.](https://idein.jp/en/)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=chainer-hand-pose&theme=monokai)](https://github.com/Idein/chainer-hand-pose)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=chainer-pose-proposal-net&theme=monokai)](https://github.com/Idein/chainer-pose-proposal-net)
 
 </details>
