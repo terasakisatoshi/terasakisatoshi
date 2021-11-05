@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=MathSeminar.jl&show_owner=true&theme=monokai)](https://terasakisatoshi.github.io/MathSeminar.jl/)
 
-<iframe src="https://github.com/sponsors/terasakisatoshi/card" title="Sponsor terasakisatoshi" height="225" width="600" style="border: 0;"></iframe>
-
 ### Projects
 
 <details>
