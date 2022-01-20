@@ -38,10 +38,9 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=MyPlutoflow.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/MyPlutoflow.jl)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=streamlit_handwritten_recognition&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/streamlit_handwritten_recognition)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=streamlit_handwritten_recognition&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/streamlit_handwritten_recognition)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=binder_docker_playground&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/binder_docker_playground)
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=MyVSCodeWorkspace.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/MyVSCodeWorkspace.jl)
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=jldev_poetry&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/jldev_poetry)
 
 <details>
