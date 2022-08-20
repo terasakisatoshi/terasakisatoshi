@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![terasakisatoshi's github stats](https://github-readme-stats.vercel.app/api?username=terasakisatoshi&show_icons=true&theme=monokai&show_icons=true) 
+![terasakisatoshi's github stats](https://github-readme-stats.vercel.app/api?username=terasakisatoshi&show_icons=true&theme=monokai&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terasakisatoshi&theme=monokai&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Web page
@@ -29,6 +29,18 @@ Here are some ideas to get you started:
 
 ### Projects
 
+### 2022
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=PCRP.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/PCRP.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=TweetPlots.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/TweetPlots.jl)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=QuartzGetWindow.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/QuartzGetWindow.jl)
+
+- Activities in AtelierArith
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=Kyulacs.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/Kyulacs.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=PyPlotly.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/PyPlotly.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=GomalizingFlow.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/GomalizingFlow.jl)
 
 ### 2021
 
