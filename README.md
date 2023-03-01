@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 
 ### Projects
 
-### 2022
+<details>
+<summary><h3> 2022 (click here)</h3></summary>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=PCRP.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/PCRP.jl)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=TweetPlots.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/TweetPlots.jl)
@@ -41,6 +42,11 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=Kyulacs.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/Kyulacs.jl)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=PyPlotly.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/PyPlotly.jl)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=GomalizingFlow.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/GomalizingFlow.jl)
+
+</details>
+
+<details>
+<summary><h3> 2021 (click here)</h3></summary>
 
 ### 2021
 
@@ -54,6 +60,8 @@ Here are some ideas to get you started:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=MyVSCodeWorkspace.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/MyVSCodeWorkspace.jl)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=jldev_poetry&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/jldev_poetry)
+
+</details>
 
 <details>
 <summary><h3> 2020 (click here)</h3></summary>
@@ -74,3 +82,5 @@ Here are some ideas to get you started:
 - This project was done when I was working at [Idein Inc.](https://idein.jp/en/)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=chainer-hand-pose&theme=monokai)](https://github.com/Idein/chainer-hand-pose)
+
+</details>
