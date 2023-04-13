@@ -30,6 +30,18 @@ Here are some ideas to get you started:
 ### Projects
 
 <details>
+<summary><h3> 2023 (click here)</h3></summary>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=Parsley.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/Parsley.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=MojiMoji.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/MojiMoji.jl)
+
+- Activities in AtelierArith
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=Kyuri.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/Kyuri.jl)
+
+</details>
+
+<details>
 <summary><h3> 2022 (click here)</h3></summary>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=PCRP.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/PCRP.jl)
