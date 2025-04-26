@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - Activities in AtelierArith
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=DocumenterTranslationOpenAIBackend.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/DocumenterTranslationOpenAIBackend.jl)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=MethodExploerer.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/MethodExploerer.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=MethodExplorer.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/MethodExplorer.jl)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=rust-random-logo&show_owner=true&theme=monokai)](https://github.com/AtelierArith/rust-random-logo)
 
