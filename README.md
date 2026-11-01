@@ -30,6 +30,54 @@ Here are some ideas to get you started:
 ### Projects
 
 <details>
+<summary><h3> 2026 (click here)</h3></summary>
+
+#### terasakisatoshi
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=sarashina-arxiv-rag&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/sarashina-arxiv-rag)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=poisson_eq_jacobi_benchmark&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/poisson_eq_jacobi_benchmark)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=MvNormalBenchmark&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/MvNormalBenchmark)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=jlw_example&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/jlw_example)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=tsuru&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/tsuru)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=poisson_eq_sandbox&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/poisson_eq_sandbox)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=WarmTestRunner.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/WarmTestRunner.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=CxxFork.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/CxxFork.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=MeetingCaptionTranslator&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/MeetingCaptionTranslator)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=EMLRegression.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/EMLRegression.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=JuliaIME&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/JuliaIME)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=agents-skills-for-japanese&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/agents-skills-for-japanese)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=HelloWorldMPIRust.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/HelloWorldMPIRust.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=rsmpi_sandbox&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/rsmpi_sandbox)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=terasakisatoshi&repo=HelloWorldMPIRust_jll.jl&show_owner=true&theme=monokai)](https://github.com/terasakisatoshi/HelloWorldMPIRust_jll.jl)
+
+#### AtelierArith
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=HFTokenizers.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/HFTokenizers.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=QwenDecisionCore.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/QwenDecisionCore.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=tenferro-decision-rs&show_owner=true&theme=monokai)](https://github.com/AtelierArith/tenferro-decision-rs)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=KevClient.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/KevClient.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=JeffClient.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/JeffClient.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=QuantumEnvelopingAlgebras.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/QuantumEnvelopingAlgebras.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=MinGWToolchain.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/MinGWToolchain.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=Laya.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/Laya.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=JevClient.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/JevClient.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=PythonRNGs.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/PythonRNGs.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=AtelierArith_JuliaCon2026_talk&show_owner=true&theme=monokai)](https://github.com/AtelierArith/AtelierArith_JuliaCon2026_talk)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=tenferro-rs-deepseek-pr&show_owner=true&theme=monokai)](https://github.com/AtelierArith/tenferro-rs-deepseek-pr)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=PlatonicSolidsGenerator.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/PlatonicSolidsGenerator.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=atelier-arith-julia-development-skills&show_owner=true&theme=monokai)](https://github.com/AtelierArith/atelier-arith-julia-development-skills)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=LMStudioClient.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/LMStudioClient.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=julia-vm-oss&show_owner=true&theme=monokai)](https://github.com/AtelierArith/julia-vm-oss)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=pick-typst-oss&show_owner=true&theme=monokai)](https://github.com/AtelierArith/pick-typst-oss)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=better-pluto-client&show_owner=true&theme=monokai)](https://github.com/AtelierArith/better-pluto-client)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=SubsetJuliaVMSupportRepository&show_owner=true&theme=monokai)](https://github.com/AtelierArith/SubsetJuliaVMSupportRepository)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=RustCall.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/RustCall.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=RustToolChainExamples.jl&show_owner=true&theme=monokai)](https://github.com/AtelierArith/RustToolChainExamples.jl)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AtelierArith&repo=CompPhysHack2026HandsOn&show_owner=true&theme=monokai)](https://github.com/AtelierArith/CompPhysHack2026HandsOn)
+
+</details>
+
+<details>
 <summary><h3> 2025 (click here)</h3></summary>
 
 - Activities in AtelierArith
