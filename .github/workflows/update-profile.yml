@@ -1,0 +1,29 @@
+name: Update GitHub profile card
+
+on:
+  schedule:
+    - cron: '17 0 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update card from GitHub API
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api users/terasakisatoshi | python3 scripts/update_profile.py
+      - name: Commit updated card
+        run: |
+          if git diff --quiet -- assets/github-profile.svg; then
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/github-profile.svg
+          git commit -m 'Update GitHub profile card'
+          git push

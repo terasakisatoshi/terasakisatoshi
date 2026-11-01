@@ -15,17 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![terasakisatoshi's github stats](https://github-readme-stats.vercel.app/api?username=terasakisatoshi&show_icons=true&theme=monokai&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terasakisatoshi&theme=monokai&hide=css,html,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub profile: public repositories, gists and followers](assets/github-profile.svg)](https://github.com/terasakisatoshi?tab=repositories)
 
-### Web page
+### Web pages
 
-- personal web page
-
-- [terasakisatoshi/terasakisatoshi.github.io](https://terasakisatoshi.github.io/)
-- topics in mathematics with JuliaLang
-
-- [terasakisatoshi/MathSeminar.jl](https://terasakisatoshi.github.io/MathSeminar.jl/)
+- 🌐 [Personal website](https://terasakisatoshi.github.io/)
+- 📚 [MathSeminar.jl](https://terasakisatoshi.github.io/MathSeminar.jl/) — topics in mathematics with Julia
 
 ### Projects
 
